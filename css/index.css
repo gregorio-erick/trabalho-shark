@@ -1,0 +1,52 @@
+
+body{
+    background: rgb(101, 101, 203);
+}
+h1{
+    margin-left: 46%;
+    font-size: 350%;
+    font-family:Georgia, 'Times New Roman', Times, serif
+  
+}
+h2{
+    font-size: 300%;
+    font-weight: bold;
+
+}
+p{
+    font-style: italic;
+    font-size: 250%;
+    font-weight: bold;
+    
+}
+div{
+    font-size: 200%;
+}
+p{
+    font-style: italic;
+    font-size: 250%;
+    font-weight: bold;
+}
+
+table{
+    width: 10%;
+    max-width: 10px;
+    border-collapse: collapse;
+    background: #10097b;
+    color: rgb(31, 164, 225)
+}
+th, td {
+    border: 1px solid #19167e;
+    padding: 10px;
+    text-align: left;
+}
+th{
+    background: #29185a;
+}
+tr:nth-child(even) {
+    background: #10097b;
+}
+img{
+    max-width: 100%;
+    width: 350px;
+}
